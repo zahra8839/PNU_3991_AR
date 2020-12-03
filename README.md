@@ -6,6 +6,7 @@
 - [حساب گیت هاب](https://github.com/zahra8839)
 - [آدرس رزومه](https://zahra8839.github.io/ZahraValipour.github.io/)
 - [SOP](https://zahra8839.github.io/SOP/)
+- [JavaScript certificate](https://www.sololearn.com/Certificate/1024-20333900/pdf/)
 
 -------------------
 ## گروه ها
