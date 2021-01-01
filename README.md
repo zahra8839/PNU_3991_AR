@@ -7,6 +7,7 @@
 - [آدرس رزومه](https://zahra8839.github.io/ZahraValipour.github.io/)
 - [SOP](https://zahra8839.github.io/SOP/)
 - [JavaScript certificate](https://www.sololearn.com/Certificate/1024-20333900/pdf/)
+- [Latex Pages(25_26_27)](https://github.com/zahra8839/Latex_pages)
 
 -------------------
 ## گروه ها
