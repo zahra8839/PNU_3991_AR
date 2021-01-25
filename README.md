@@ -10,6 +10,12 @@
 - [Latex Pages(25_26_27)](https://github.com/zahra8839/Latex_pages)
 
 -------------------
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/zahra8839/PNU_3991_AR/blob/main/_General/ZV_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/zahra8839/PNU_3991_AR/blob/main/_General/ZV_GeneralSection_CheckList_AR_3991.pdf)
+
 ## گروه ها
 
 1. G-R01
